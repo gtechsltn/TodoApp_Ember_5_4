@@ -26,7 +26,7 @@ You will need the following things properly installed on your computer.
 * [Node.js v20.10 (LTS)](https://nodejs.org/download/release/latest-v20.x/)
 * [Ember.js v5.4 (LTS)](https://emberjs.com/releases/lts/)
 
-### 1.2/ Ember.js (Ember-CLI)
+### 1.2/ Ember-CLI
 
 * `npm install -g ember-cli@5.4`
 * `ember new TodoApp --no-welcome`
@@ -37,7 +37,7 @@ You will need the following things properly installed on your computer.
 
 + [Format with Prettier](https://www.educative.io/answers/how-to-set-up-prettier-and-automatic-formatting-on-vs-code)
 
-### 1.5/ Favicon
+### 1.4/ Favicon
 
 + [Add a favicon](https://itecnote.com/tecnote/how-to-use-a-favicon-with-ember-cli/)
 
