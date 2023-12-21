@@ -126,6 +126,11 @@ Specifically, the Ember 4.x release policy includes support for Google Chrome, M
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
 * [Ember Guides: Getting Started](https://guides.emberjs.com/v5.4.0/getting-started/)
 * [Ember Guides: Tutorial](https://guides.emberjs.com/v5.4.0/tutorial/part-1/)
+* [Import External CSS files](https://stackoverflow.com/questions/43765709/how-can-i-import-external-css-files-into-my-ember-app)
+* [jQuery](https://www.npmjs.com/package/jquery)
+* [Bootstrap](https://www.npmjs.com/package/bootstrap)
+* [Font Awesome](https://www.npmjs.com/package/font-awesome)
+* [Font Awesome v4.7](https://www.npmjs.com/package/fontawesome-4.7)
 
 ### Deprecations Added in Ember
 
