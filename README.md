@@ -45,8 +45,20 @@ You will need the following things properly installed on your computer.
 
 ## Development
 
+* `ember install ember-cli-less`
+* `ember install ember-cli-sass`
 * `ember install @ember/jquery`
 * `import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
+
+### Configure files
++ File: .vscode\launch.json
++ File: .vscode\settings.json
++ File: package.json
++ File: jsconfig.json
++ File: ember-cli-build.js
+
+### Style Sheets
++ [Style Sheets](https://cli.emberjs.com/release/advanced-use/stylesheets/)
 
 ## Running
 
