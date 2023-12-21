@@ -1,9 +1,1 @@
-{
-    "eslint.validate": [
-        "glimmer-ts",
-        "glimmer-js"
-    ],
-    "editor.formatOnSave": false,
-    "editor.formatOnPaste": false,
-    "editor.formatOnType": false
-}
+{}
