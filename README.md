@@ -46,6 +46,7 @@ You will need the following things properly installed on your computer.
 ## Development
 
 * `ember install @ember/jquery`
+* `import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
 
 ## Running
 
