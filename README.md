@@ -49,9 +49,7 @@ You will need the following things properly installed on your computer.
   * `ember install ember-cli-sass`
 * jQuery
   * `ember install @ember/jquery`
-  ```
-  import $ from 'jquery';
-  ```
+  * ` import $ from 'jquery';`
 * Bootstrap
 * Fontawesome
 
