@@ -48,7 +48,13 @@ You will need the following things properly installed on your computer.
 * `ember install ember-cli-less`
 * `ember install ember-cli-sass`
 * `ember install @ember/jquery`
-  * `import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
+```
+ember install @ember/jquery
+import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
+```
+
+### Ember.js Octane: Glimmer Component
+
 ```
 # -gc stands for glimmer component
 ember generate component my-component -gc
