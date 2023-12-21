@@ -31,7 +31,7 @@ You will need the following things properly installed on your computer.
 ### 1.2/ Ember-CLI
 
 * `npm install -g ember-cli@5.4`
-* `ember new TodoApp --no-welcome`
+* `ember new TodoApp --no-welcome --lang en`
 * `ember generate component --help`
 * `ember serve`
 
@@ -49,15 +49,23 @@ You will need the following things properly installed on your computer.
 * `ember install ember-cli-sass`
 * `ember install @ember/jquery`
   * `import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
-* `ember g component welcome`
-* `ember g component-class welcome`
+```
+# -gc stands for glimmer component
+ember generate component my-component -gc
+
+# -cc stands for classic component
+ember generate component my-component -cc
+
+# See the full set of options with this:
+ember generate component --help
+```
 
 ### Configure files
-+ File: .vscode\launch.json
-+ File: .vscode\settings.json
-+ File: package.json
-+ File: jsconfig.json
-+ File: ember-cli-build.js
++ .vscode\launch.json
++ .vscode\settings.json
++ package.json
++ jsconfig.json
++ ember-cli-build.js
 
 ### Style Sheets
 + [Style Sheets](https://cli.emberjs.com/release/advanced-use/stylesheets/)
