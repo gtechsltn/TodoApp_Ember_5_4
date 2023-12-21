@@ -21,8 +21,9 @@ You will need the following things properly installed on your computer.
 ### 1.1/ Environment
 
 * Windows 11 64-bit
-* Git for Windows
-* [VS Code](https://code.visualstudio.com/)
+* [Git for Windows](https://gitforwindows.org/)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Google Chrome](https://www.google.com/intl/en/chrome/)
 * [Node.js v20.10 (LTS)](https://nodejs.org/download/release/latest-v20.x/)
 * [Ember.js v5.4 (LTS)](https://emberjs.com/releases/lts/)
 * [Ember Inspector](https://chromewebstore.google.com/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
