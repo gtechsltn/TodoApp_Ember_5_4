@@ -22,12 +22,10 @@ You will need the following things properly installed on your computer.
 * [Node.js v20.x download link](https://nodejs.org/download/release/latest-v20.x/)
 
 ### Ember.js install
-```
-npm install -g ember-cli@5.4
-ember new TodoApp --no-welcome
-ember generate component --help
-ember serve
-```
+* `npm install -g ember-cli@5.4`
+* `ember new TodoApp --no-welcome`
+* `ember generate component --help`
+* `ember serve`
 
 ## Running / Development
 
