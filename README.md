@@ -124,7 +124,8 @@ Specifically, the Ember 4.x release policy includes support for Google Chrome, M
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
-* [Ember Guides](https://guides.emberjs.com/v5.4.0/getting-started/)
+* [Ember Guides: Getting Started](https://guides.emberjs.com/v5.4.0/getting-started/)
+* [Ember Guides: Tutorial](https://guides.emberjs.com/v5.4.0/tutorial/part-1/)
 
 ### Deprecations Added in Ember
 
