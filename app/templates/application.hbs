@@ -1,5 +1,20 @@
-{{page-title "TodoApp"}}
+{{page-title "Todo App"}}
 
-<h2 id="title">Welcome to Ember</h2>
-
-{{outlet}}
+<div class="container">
+  <div class="row header">
+    <div class="col-12">
+      <span>This is header</span>
+    </div>
+  </div>
+  <div class="row body">
+    <div class="col-12">
+      <MyComponent />
+      {{outlet}}
+    </div>
+  </div>
+  <div class="row footer">
+    <div class="col-12">
+      <span>This is footer</span>
+    </div>
+  </div>
+</div>

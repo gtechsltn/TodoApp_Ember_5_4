@@ -1,0 +1,25 @@
+/* Ember supports plain CSS out of the box. More info: https://cli.emberjs.com/release/advanced-use/stylesheets/ */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: red;
+}
+
+.header {
+  height: 40px;
+  background-color: yellow;
+}
+
+.body {
+  height: auto;
+  background-color: green;
+}
+
+.footer {
+  height: 40px;
+  background-color: purple;
+}
+/*@ sourceMappingURL=todo-app.css.map*/
