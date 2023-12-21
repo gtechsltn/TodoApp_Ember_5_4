@@ -2,6 +2,9 @@
 /dist/
 /declarations/
 
+# history
+/.history/
+
 # dependencies
 /node_modules/
 
