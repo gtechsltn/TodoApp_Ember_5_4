@@ -87,7 +87,16 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+Specifically, the Ember 4.x release policy includes support for Google Chrome, Mozilla Firefox, Microsoft Edge, and Apple Safari on desktop and mobile. It does not include support for any version of Internet Explorer.
+
+* Browser supports:
+  + Google Chrome
+  + Mozilla Firefox
+  + Microsoft Edge
+  + Apple Safari
+
+* Browser does not supports:
+  + Internet Explorer
 
 ## Further Reading / Useful Links
 
@@ -96,3 +105,9 @@ Specify what it takes to deploy your app.
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+### Deprecations Added in Ember
+
+* [Deprecations Added in Ember 5.x](https://deprecations.emberjs.com/v5.x/)
+* [Deprecations Added in Ember 4.x](https://deprecations.emberjs.com/v4.x/)
+* [Deprecations Added in Ember 3.x](https://deprecations.emberjs.com/v3.x/)
