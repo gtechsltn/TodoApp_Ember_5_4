@@ -45,7 +45,7 @@ You will need the following things properly installed on your computer.
 
 ## Development
 
-* `ember install ...`
+* `ember install @ember/jquery`
 
 ## Running
 
