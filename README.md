@@ -49,12 +49,12 @@ You will need the following things properly installed on your computer.
 
 * SASS (SCSS)
   * `ember install ember-cli-sass`
-* jQuery 3.7.1
+* jQuery v3.7.1
   * `ember install @ember/jquery`
   * `import $ from 'jquery';`
-* Bootstrap 3.4.1
-* Font Awesome 4.7
-* Google Fonts
+* [Bootstrap v3.4.1](https://getbootstrap.com/docs/3.4/)
+* [Font Awesome v4.7](https://fontawesome.com/v4/get-started/)
+* [Google Fonts](https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700,300italic,400italic,600italic)
 
 ### Ember.js Octane: Glimmer Component
 
