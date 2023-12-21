@@ -45,14 +45,15 @@ You will need the following things properly installed on your computer.
 
 ## Development
 
-* `ember install ember-cli-less`
-* `ember install ember-cli-sass`
-* `ember install @ember/jquery`
-```
-import $ from 'jquery'; // this will also work and we will use '$' to reference to jQuery`
-```
-* `ember install ember-bootstrap`
-* `ember install @fortawesome/ember-fontawesome`
+* SASS (SCSS)
+  * `ember install ember-cli-sass`
+* jQuery
+  * `ember install @ember/jquery`
+  ```
+  import $ from 'jquery';
+  ```
+* Bootstrap
+* Fontawesome
 
 ### Ember.js Octane: Glimmer Component
 
