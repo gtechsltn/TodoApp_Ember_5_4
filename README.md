@@ -18,11 +18,15 @@ You will need the following things properly installed on your computer.
 * `cd todo-app`
 * `npm install`
 
-### 1.1/ Node.js install
+### 1.1/ Environment
 
-* [Node.js v20.x download link](https://nodejs.org/download/release/latest-v20.x/)
+* Windows 11 64-bit
+* Git for Windows
+* [VS Code](https://code.visualstudio.com/)
+* [Node.js v20.10 (LTS)](https://nodejs.org/download/release/latest-v20.x/)
+* [Ember.js v5.4 (LTS)](https://emberjs.com/releases/lts/)
 
-### 1.2/ Ember.js install
+### 1.2/ Ember.js (Ember-CLI)
 
 * `npm install -g ember-cli@5.4`
 * `ember new TodoApp --no-welcome`
