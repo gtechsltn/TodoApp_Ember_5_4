@@ -414,7 +414,7 @@ catch(err) {
 
 ;
           if (!runningTests) {
-            require("todo-app/app")["default"].create({"name":"todo-app","version":"0.0.0+374ed065"});
+            require("todo-app/app")["default"].create({"name":"todo-app","version":"0.0.0+1ba140a9"});
           }
         
 //# sourceMappingURL=todo-app.map
