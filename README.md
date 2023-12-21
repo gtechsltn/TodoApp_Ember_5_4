@@ -25,6 +25,7 @@ You will need the following things properly installed on your computer.
 * [VS Code](https://code.visualstudio.com/)
 * [Node.js v20.10 (LTS)](https://nodejs.org/download/release/latest-v20.x/)
 * [Ember.js v5.4 (LTS)](https://emberjs.com/releases/lts/)
+* [Ember Inspector](https://chromewebstore.google.com/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
 
 ### 1.2/ Ember-CLI
 
