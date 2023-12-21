@@ -48,7 +48,9 @@ You will need the following things properly installed on your computer.
 * `ember install ember-cli-less`
 * `ember install ember-cli-sass`
 * `ember install @ember/jquery`
-* `import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
+  * `import $ from 'jquery'; // this will also work and we will use '$' to reference jQuery`
+* `ember g component welcome`
+* `ember g component-class welcome`
 
 ### Configure files
 + File: .vscode\launch.json
@@ -105,6 +107,7 @@ Specifically, the Ember 4.x release policy includes support for Google Chrome, M
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+* [Ember Guides](https://guides.emberjs.com/v5.4.0/getting-started/)
 
 ### Deprecations Added in Ember
 
