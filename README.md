@@ -19,21 +19,26 @@ You will need the following things properly installed on your computer.
 * `npm install`
 
 ### 1.1/ Node.js install
+
 * [Node.js v20.x download link](https://nodejs.org/download/release/latest-v20.x/)
 
 ### 1.2/ Ember.js install
+
 * `npm install -g ember-cli@5.4`
 * `ember new TodoApp --no-welcome`
 * `ember generate component --help`
 * `ember serve`
 
 ### 1.3/ Formatting on VS Code
+
 + [Format with Prettier](https://www.educative.io/answers/how-to-set-up-prettier-and-automatic-formatting-on-vs-code)
 
 ### 1.5/ Favicon
+
 + [Add a favicon](https://itecnote.com/tecnote/how-to-use-a-favicon-with-ember-cli/)
 
 ## Development
+
 * `ember install ...`
 
 ## Running
