@@ -35,6 +35,8 @@ You will need the following things properly installed on your computer.
 * `ember generate component --help`
 * `ember serve`
 
++ [Allow you to use latest Javascript in your Ember CLI project](https://www.npmjs.com/package/ember-cli-babel)
+
 ### 1.3/ Formatting on VS Code
 
 + [Format with Prettier](https://www.educative.io/answers/how-to-set-up-prettier-and-automatic-formatting-on-vs-code)
@@ -47,11 +49,12 @@ You will need the following things properly installed on your computer.
 
 * SASS (SCSS)
   * `ember install ember-cli-sass`
-* jQuery
+* jQuery 3.7.1
   * `ember install @ember/jquery`
-  * ` import $ from 'jquery';`
-* Bootstrap
-* Fontawesome
+  * `import $ from 'jquery';`
+* Bootstrap 3.4.1
+* Font Awesome 4.7
+* Google Fonts
 
 ### Ember.js Octane: Glimmer Component
 
